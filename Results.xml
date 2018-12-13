@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ArrayOfResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Result>
+    <alias>Test</alias>
+    <coinsCollected>22</coinsCollected>
+    <lifetime>118</lifetime>
+    <startDate>2018-12-13T18:52:10.6262457+02:00</startDate>
+    <endReason>Death</endReason>
+  </Result>
+  <Result>
+    <alias>Test</alias>
+    <coinsCollected>0</coinsCollected>
+    <lifetime>0</lifetime>
+    <startDate>2018-12-13T18:54:18.3950491+02:00</startDate>
+    <endReason>Escape</endReason>
+  </Result>
+  <Result>
+    <alias>Test</alias>
+    <coinsCollected>0</coinsCollected>
+    <lifetime>0</lifetime>
+    <startDate>2018-12-13T18:54:22.7113018+02:00</startDate>
+    <endReason>Escape</endReason>
+  </Result>
+  <Result>
+    <alias>Yura</alias>
+    <coinsCollected>26</coinsCollected>
+    <lifetime>158</lifetime>
+    <startDate>2018-12-13T18:58:26.2732+02:00</startDate>
+    <endReason>Death</endReason>
+  </Result>
+</ArrayOfResult>
